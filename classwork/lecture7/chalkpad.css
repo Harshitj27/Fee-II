@@ -1,0 +1,51 @@
+body{
+    background-image: url(https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/03/CUB4-Top-10-reasons-why-Chitkara-University-is-the-best-University-in-North-India.jpg);
+    background-size: cover;
+}
+
+.main{
+    background-color: white;
+    margin-left: 65%;
+    box-sizing: border-box;
+    margin-top: 7%;
+    width: 20%;
+    padding: 30px;
+}
+
+img{
+    width: 200px;
+    height: 60px;
+    padding: 30px;
+}
+
+#label{
+    font-size: 20px;
+}
+
+#uname,#pass{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 200px;
+    height: 25px;
+}
+
+#qualification{
+    width: 120px;
+    height: 25px;
+    margin-top: 10px;
+}
+
+select{
+    margin-bottom: 15px;
+}
+
+button{
+    margin-top: 15px;
+    font-size: 20px;
+    width: 95%;
+    height: 35px;
+    color: black;
+    background-color: red;
+    border: none;
+    text-align: center;
+}
