@@ -1,6 +1,7 @@
 body{
-    background-image: url(https://www.chitkara.edu.in/blogs/wp-content/uploads/2022/03/CUB4-Top-10-reasons-why-Chitkara-University-is-the-best-University-in-North-India.jpg);
+    background-image: url(https://cchm.codebrigade.in/images/Chitkara_University_pic.jpg);
     background-size: cover;
+    backdrop-filter: blur(3px);
 }
 
 .main{
@@ -15,16 +16,16 @@ body{
 img{
     width: 200px;
     height: 60px;
-    padding: 30px;
+    padding: 10px;
 }
 
 #label{
-    font-size: 20px;
+    font-size: 15px;
 }
 
 #uname,#pass{
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-top: 10px;
+    margin-bottom: 7px;
     width: 200px;
     height: 25px;
 }
@@ -41,11 +42,21 @@ select{
 
 button{
     margin-top: 15px;
-    font-size: 20px;
+    font-size: 15px;
     width: 95%;
     height: 35px;
     color: black;
     background-color: red;
     border: none;
     text-align: center;
+}
+
+#for{
+    font-size: 15px;
+}
+
+#click{
+    font-size: 15px;
+    text-decoration: none;
+    color: blue;
 }
