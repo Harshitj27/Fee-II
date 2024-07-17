@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container{
+    width: 1000px;
+    height: 500px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: end;
+}
+
+#flexitem1{
+    width: 100px;
+    height: 50px;
+    background-color: red;
+}
+
+#flexitem2{
+    width: 100px;
+    height: 50px;
+    background-color: aqua;
+}
+
+#flexitem3{
+    width: 100px;
+    height: 50px;
+    background-color: beige;
+}
+
+#flexitem4{
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+}

@@ -1,7 +1,6 @@
 body{
     background-image: url(https://cchm.codebrigade.in/images/Chitkara_University_pic.jpg);
     background-size: cover;
-    backdrop-filter: blur(3px);
 }
 
 .main{

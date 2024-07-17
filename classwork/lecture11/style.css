@@ -1,0 +1,24 @@
+body{
+    border: 10px solid;
+    border-color: red;
+}
+
+div{
+    border: 5px solid;
+    border-color: black;
+    padding: 20px 10px 20px;
+    margin: 20px 10px 20px;
+    text-align: justify;
+}
+
+a{
+    color: red;
+    text-decoration: line-through;
+    font-size: 50px;
+    text-decoration-color: aqua;
+    text-decoration-style: double ;
+}
+
+h1{
+    text-shadow: 10px 10px 20px blue;
+}

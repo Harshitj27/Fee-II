@@ -1,0 +1,31 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+h1{
+    color: red;
+    background-color: bisque;
+    border:red;
+}
+
+p{
+    color: rgb(4, 4, 53);
+}
+
+#listitem{
+    color:red;
+}
+
+.abc{
+    background-color: blanchedalmond;
+}
+
+[type="password"]{
+    color: red;
+}
+
+[placeholder="Enter email"]{
+    color: blue;
+}
+
