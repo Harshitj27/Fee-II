@@ -1,0 +1,61 @@
+body{
+    background-image: url(https://cchm.codebrigade.in/images/Chitkara_University_pic.jpg);
+    background-size: cover;
+}
+
+.main{
+    background-color: white;
+    margin-left: 65%;
+    box-sizing: border-box;
+    margin-top: 7%;
+    width: 20%;
+    padding: 30px;
+}
+
+img{
+    width: 200px;
+    height: 60px;
+    padding: 10px;
+}
+
+#label{
+    font-size: 15px;
+}
+
+#uname,#pass{
+    margin-top: 10px;
+    margin-bottom: 7px;
+    width: 200px;
+    height: 25px;
+}
+
+#qualification{
+    width: 120px;
+    height: 25px;
+    margin-top: 10px;
+}
+
+select{
+    margin-bottom: 15px;
+}
+
+button{
+    margin-top: 15px;
+    font-size: 15px;
+    width: 95%;
+    height: 35px;
+    color: black;
+    background-color: red;
+    border: none;
+    text-align: center;
+}
+
+#for{
+    font-size: 15px;
+}
+
+#click{
+    font-size: 15px;
+    text-decoration: none;
+    color: blue;
+}
